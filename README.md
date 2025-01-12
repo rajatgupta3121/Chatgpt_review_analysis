@@ -9,13 +9,13 @@ To get started with the ChatGPT Review Analysis project, follow these steps:
 1. Clone the repository from GitHub:
 
     ```bash
-    git clone https://github.com/rajatgupta3121/Data_analysis_projects.git
+    git clone https://github.com/rajatgupta3121/Chatgpt_review_analysis.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Data_analysis_projects
+    cd Chatgpt_review_analysis
     ```
 
 3. Install the required dependencies using [pip](https://pip.pypa.io/en/stable/):
